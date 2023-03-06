@@ -28,7 +28,7 @@
         "Hello, My name is {CharName}",
         "Click on the start button to start playing the game."
     ],
-    "QuestionText": "Click on the box that says {Question}",
+    "QuestionText": "Click on the box that says ",
     "CorrectText": "Correct Answer",
     "IncorrectText": "Wrong Answer",
     "Questions": [
